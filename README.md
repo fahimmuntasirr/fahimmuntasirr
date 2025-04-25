@@ -1,21 +1,21 @@
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
-<h3 align="center">A Passionate Fullstack Developer & Problem Solver</h3>
+<h1 align="center">Hello, I'm Fahim Muntasir 👋</h1>
+<h3 align="center">An Aspiring Fullstack Developer & Tech Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me:
-- 🔭 I’m currently working on **exciting web and software projects**  
+- 🔭 I’m currently working on **web and software projects to enhance my skills**  
 - 🌱 I’m learning and exploring **Django, React, and Advanced Algorithms**  
 - 💬 Ask me about **Django, Java, JavaFX, HTML, CSS, JavaScript, Python, PHP, TailwindCSS, React, C, C++**  
-- 📫 Reach me at: **[your-email@example.com]**  
-- ⚡ Fun fact: I enjoy debugging as much as coding!  
+- 📫 Reach me at: **[khanf6086@gmail.com]**  
+- ⚡ Fun fact: I enjoy learning new technologies and solving challenging problems!  
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/fahimmuntasirr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/fahimmuntasirr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://github.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
 </p>
@@ -48,22 +48,8 @@
 
 ---
 
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-### 💡 Fun Projects:
-- 🚀 [Project 1](https://github.com/your-username/project1): A brief description of your project.
-- 🌟 [Project 2](https://github.com/your-username/project2): Another cool project you’ve worked on.
-
----
-
 ### 📫 Let’s Collaborate!
 Feel free to reach out if you’d like to collaborate on a project or just chat about tech!
 
 ---
 
-**Note:** Replace placeholders like `[Your Name]`, `your-username`, and `your-email@example.com` with your actual details. Let me know if you need further customization!
